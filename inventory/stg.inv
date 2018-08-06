@@ -1,0 +1,38 @@
+[stg_apoch_hum_ohio]
+10.57.79.65  #ohlvcasdb0101hs ohlvcasdb0101hs.oh.stg.hum.aws.vz-connect.net
+10.57.80.117 #ohlvcasdb0102hs ohlvcasdb0102hs.oh.stg.hum.aws.vz-connect.net
+10.57.81.58  #ohlvcasdb0103hs ohlvcasdb0103hs.oh.stg.hum.aws.vz-connect.net
+10.57.79.141 #ohlvcasdb0104hs ohlvcasdb0104hs.oh.stg.hum.aws.vz-connect.net
+10.57.80.187 #ohlvcasdb0105hs ohlvcasdb0105hs.oh.stg.hum.aws.vz-connect.net
+10.57.81.11  #ohlvcasdb0106hs ohlvcasdb0106hs.oh.stg.hum.aws.vz-connect.net
+10.57.79.170 #ohlvcasdb0107hs ohlvcasdb0107hs.oh.stg.hum.aws.vz-connect.net
+10.57.80.160 #ohlvcasdb0108hs ohlvcasdb0108hs.oh.stg.hum.aws.vz-connect.net
+10.57.81.64  #ohlvcasdb0109hs ohlvcasdb0109hs.oh.stg.hum.aws.vz-connect.net
+
+[stg_apoch_hum_oregon]
+10.61.79.151 #orlvcasdb0101hs orlvcasdb0101hs.or.stg.hum.aws.vz-connect.net
+10.61.80.39  #orlvcasdb0102hs orlvcasdb0102hs.or.stg.hum.aws.vz-connect.net
+10.61.81.102 #orlvcasdb0103hs orlvcasdb0103hs.or.stg.hum.aws.vz-connect.net
+10.61.79.245 #orlvcasdb0104hs orlvcasdb0104hs.or.stg.hum.aws.vz-connect.net
+10.61.80.246 #orlvcasdb0105hs orlvcasdb0105hs.or.stg.hum.aws.vz-connect.net
+10.61.81.12  #orlvcasdb0106hs orlvcasdb0106hs.or.stg.hum.aws.vz-connect.net
+10.61.79.72  #orlvcasdb0107hs orlvcasdb0107hs.or.stg.hum.aws.vz-connect.net
+10.61.80.157 #orlvcasdb0108hs orlvcasdb0108hs.or.stg.hum.aws.vz-connect.net
+10.61.81.13  #orlvcasdb0109hs orlvcasdb0109hs.or.stg.hum.aws.vz-connect.net
+
+[stg_apoch_hum_analytics]
+10.57.79.70  #ohlvcasdb1101hs ohlvcasdb1101hs.oh.stg.hum.aws.vz-connect.net
+10.57.80.233 #ohlvcasdb1102hs ohlvcasdb1102hs.oh.stg.hum.aws.vz-connect.net
+10.57.81.31  #ohlvcasdb1103hs ohlvcasdb1103hs.oh.stg.hum.aws.vz-connect.net
+
+[stg_cdpgw_hum_oregon]
+10.61.79.133 #orlvcasdb0201hs orlvcasdb0201hs.or.stg.hum.aws.vz-connect.net
+10.61.80.89  #orlvcasdb0202hs orlvcasdb0202hs.or.stg.hum.aws.vz-connect.net
+10.61.81.180 #orlvcasdb0203hs orlvcasdb0203hs.or.stg.hum.aws.vz-connect.net
+10.61.79.8   #orlvcasdb0204hs orlvcasdb0204hs.or.stg.hum.aws.vz-connect.net
+10.61.80.229 #orlvcasdb0205hs orlvcasdb0205hs.or.stg.hum.aws.vz-connect.net
+10.61.81.75  #orlvcasdb0206hs orlvcasdb0206hs.or.stg.hum.aws.vz-connect.net
+10.61.79.248 #orlvcasdb0207hs orlvcasdb0207hs.or.stg.hum.aws.vz-connect.net
+10.61.80.21  #orlvcasdb0208hs orlvcasdb0208hs.or.stg.hum.aws.vz-connect.net
+10.61.81.94  #orlvcasdb0209hs orlvcasdb0209hs.or.stg.hum.aws.vz-connect.net
+
